@@ -5,7 +5,7 @@
         "location": {
             "type": "string",
             "metadata": {
-              "description": "The datacenter to use for the deployment."
+              "description": "The datacenter to use for the deployment....."
             }
         },
         "logicAppSystemAssignedIdentityTenantId": {
